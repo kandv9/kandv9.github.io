@@ -6,4 +6,4 @@ NestNAS is a personal application used only by its owner to record video from th
 - Use of data: recordings are stored only on the owner's private network storage. Nothing is shared with, sold to, or disclosed to any third party.
 - Retention: recordings are deleted automatically after the retention period set by the owner.
 - Access: only the owner can use this app. Access can be revoked at any time at https://myaccount.google.com/permissions.
-- Contact: kvijaychandra@gmail.com
+- Contact: 
